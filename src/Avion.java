@@ -3,7 +3,8 @@ public class Avion {
     static int nbLimitPassager = 100;
     int nbPassager;
 
-    Avion(int numero){
+    Avion(int numero, int nbLimitPassager){
         this.numero = numero;
+        this.nbLimitPassager = nbLimitPassager;
     }
 }
