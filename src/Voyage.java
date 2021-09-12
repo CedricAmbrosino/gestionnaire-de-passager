@@ -6,4 +6,5 @@ public class Voyage {
         this.destination = destination;
         this.numeroAvion = numeroAvion;
     }
+
 }

@@ -17,8 +17,9 @@ public class TableHoraire {
                     break;
                 }
             }
-            System.out.printf("%s - D : Brest - A : %s - n° %s\n",this.planning[i][0], destination,this.planning[i][1]);
+            System.out.printf("%s - D : Brest - A : %s - n° %s -- Plus details tapez %d\n",this.planning[i][0], destination,this.planning[i][1],i);
         }
+        System.out.println("Pour revenir au menu tapez : "+ this.horaires.length);
     }
 
 

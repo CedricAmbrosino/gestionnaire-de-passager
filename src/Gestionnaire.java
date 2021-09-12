@@ -1,3 +1,4 @@
+
 public class Gestionnaire {
     public static void main(String... args){
 
@@ -13,6 +14,8 @@ public class Gestionnaire {
         Avion avion2 = new Avion(03002,100);
         Avion avion3 = new Avion(04010,30);
         Avion avion4 = new Avion(04050,10);
+
+        Avion[] avions = {avion1, avion2, avion3, avion4};
 
         /****************Initialisation des voyages************************/
 
@@ -39,7 +42,9 @@ public class Gestionnaire {
         System.out.println("\nBienvenue dans le gestionnaire de passager de l'aéroport de Brest");
         System.out.println("Voici la liste des prochains départs : \n");
 
-        planning.afficherTableauDesHoraires(listeVols);
+        /***************Chargement de la session utilisateur***********/
+        Session sessionUtilisateur = new Session(planning, listeVols, avions);
+        sessionUtilisateur.actionsMenuPrincipal();
 
     }
 }
