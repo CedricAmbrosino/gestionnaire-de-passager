@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89664066-459d-42af-a4e6-2b06c2cee535" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Avion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Gestionnaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Session.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/TableHoraire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestionnaire-de-passager/Voyage.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y4gXrO7uL5CX6upyttnlj6VtpF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Gestionnaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gestionnaire" />
+      <module name="gestionnaire-de-passagers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gestionnaire" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89664066-459d-42af-a4e6-2b06c2cee535" name="Changes" comment="" />
+      <created>1631516317213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631516317213</updated>
+    </task>
+    <servers />
+  </component>
+</project>
